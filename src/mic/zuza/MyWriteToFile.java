@@ -65,8 +65,8 @@ public class MyWriteToFile extends JFrame {
             e.printStackTrace();
         }
         System.out.println("изменение для проверки контроля версий");
-        System.out.println("изменение для проверки контроля версий");
-        System.out.println("изменение для проверки контроля версий");
+        System.out.println("и3333333333333333333333333333");
+        System.out.println("55555555555555555555555555555555555");
         System.out.println("изменение для проверки контроля версий");
     }
 }
